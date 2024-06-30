@@ -1,0 +1,15 @@
+ 
+ /* scrollbar hide */
+ ::-webkit-scrollbar {
+    display: none;
+}
+
+/* hover transition */
+.col-12 {
+    transition: all .2s ease-in-out; 
+}
+
+/* hover transition */
+.col-12:hover { 
+    transform: scale(0.9); 
+    }
